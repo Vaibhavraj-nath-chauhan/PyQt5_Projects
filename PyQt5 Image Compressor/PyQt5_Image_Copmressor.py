@@ -25,7 +25,7 @@ class App(QMainWindow):
         self.height = 600
         self.image_width = 0
         self.setFixedSize(self.width,self.height)
-        with open("D:\\College section\\Language practice\\Python Practice\\PyQt5 Image Compressor\\tamp.css", "r") as f:
+        with open("tamp.css", "r") as f:
             stylesheet = f.read()
         self.setStyleSheet(stylesheet)
         self.setObjectName("window")
