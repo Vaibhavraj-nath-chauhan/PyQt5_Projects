@@ -1,0 +1,88 @@
+#window{
+    background-color: black;
+}
+#main_window{
+    background-color:rgb(22, 22, 22);
+    max-width: 240px;
+    min-width: 240px;
+    max-height: 350px;
+    min-height: 350px;
+    border-radius: 20px;
+ 
+}
+#status_bar{
+    color: wheat;
+    background-color: rgb(22, 22, 22);
+    text-align: center;
+}
+
+#text_1{
+    color: wheat;
+    font-size: 20px;
+}
+#input_1{
+    color: gray;
+    min-width: 180px;
+    max-width: 180px;
+}
+#text_2{
+    color: wheat;
+    font-size: 15px;
+}
+
+#button_1{
+    background-color: rgb(209, 168, 168);
+    max-height: 30px;
+    min-height: 30px;
+    max-width: 80px;
+    min-width: 80px;
+}
+#button_1:hover{
+    background-color:wheat;
+    color: black;
+}
+
+#button_2{
+    background-color: rgb(209, 168, 168);
+    max-height: 20px;
+    min-height: 20px;
+    max-width: 70px;
+    min-width: 70px;
+}
+#button_2:hover{
+    background-color:wheat;
+    color: black;
+}
+
+#audio{
+    background-color:rgb(22, 22, 22);
+    max-width: 200px;
+    min-width: 200px;
+    max-height: 40px;
+    min-height: 40px;
+    border-radius: 10px;
+
+}
+#audio:hover{
+    background-color:rgb(255, 255, 255);
+    color: black;
+}
+#audio_text{
+    color: wheat;
+    font-size: 20px;
+}
+#audio_text:hover{
+    color: black;
+}
+
+#back{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+#back:hover{
+    background-color: rgba(255, 255, 255, 0.829);
+    color: black;
+}
