@@ -1,0 +1,47 @@
+#windows{
+    background-color: rgb(0, 0, 0);
+}
+
+#bar{
+    color: yellow;
+    background-color:rgb(22,22,22);
+}
+#frame_1{
+    background-color: rgb(22,22,22);
+    min-width: 400px;
+    max-width: 400px;
+    max-height: 500px;
+    min-height: 500px;
+    border-radius: 20px;
+}
+#heading{
+    color: rgba(255, 0, 0, 0.644);
+    font-size: 20px;
+
+}
+#heading:hover{
+    color: rgba(250, 246, 0, 0.829);
+}
+#text{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+#login_B{
+    color: rgb(0, 0, 0);
+    background-color: wheat;
+
+
+}
+#login_B:hover{
+    color: rgb(4, 0, 255);
+    background-color: rgb(255, 255, 255);
+}
+
+
+#text:hover{
+    color: rgb(250, 248, 128);
+    font-size: 10px;
+    text-align: center;
+}
